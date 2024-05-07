@@ -74,11 +74,11 @@ endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
 
-![image](https://github.com/mohammadshahil09/SR-FLIPFLOP-USING-CASE/assets/145742927/1fd7bb5f-f337-46ae-a075-640941135f45)
+![image](https://github.com/keerthanaguttha/SR-FLIPFLOP-USING-CASE/assets/145742927/1fd7bb5f-f337-46ae-a075-640941135f45)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/mohammadshahil09/SR-FLIPFLOP-USING-CASE/assets/145742927/d323e9c9-21a7-429f-b6ea-b673f303165b)
+![image](https://github.com/keerthanaguttha/SR-FLIPFLOP-USING-CASE/assets/145742927/d323e9c9-21a7-429f-b6ea-b673f303165b)
 
 **RESULTS**
 
